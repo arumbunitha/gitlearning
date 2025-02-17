@@ -1,2 +1,2 @@
 this is my second file from dev branch
-
+to understand diff command
